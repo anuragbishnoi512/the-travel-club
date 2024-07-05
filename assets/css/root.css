@@ -1,0 +1,26 @@
+:root {
+    /* font-size */
+    --font-size-28: 28px;
+    --font-size-16: 16px;
+    --font-size-64: 64px;
+    --font-size-48: 48px;
+    --font-size-20: 20px;
+    --font-size-36: 36px;
+    --font-size-24: 24px;
+    --font-size-20: 20px;
+    --font-size-14: 14px;
+    --font-size-32: 32px;
+    --font-size-: px;
+    --font-size-: px;
+    --font-size-: px;
+    --font-size-: px;
+    --font-size-: px;
+    /* color-root */
+    --color-white1: #FAFAFA;
+    --color-white2: #FCFFFE;
+    --color-white: #FFFFFF;
+    --color-linear: linear-gradient(90deg, #1219D2 0%, #4E52B1 100%);
+    --color-navbar: #1F1F49;
+    --color-blur: #1C1737;
+    --color-bg: #140D1B;
+}

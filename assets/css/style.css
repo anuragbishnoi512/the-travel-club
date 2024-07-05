@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Racing+Sans+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    text-decoration: none !important;
+    list-style: none !important;
+}
+
+.nav-background {
+    background-color: #242451;
+}
+
+.travel-txt {
+    font-family: "Racing Sans One", sans-serif;
+    font-size: var(--font-size-28);
+    font-weight: 400;
+    line-height: 35.7px;
+    color: var(--color-white1);
+}
+
+.navbar-link {
+    font-family: "Poppins", sans-serif;
+    font-size: var(--font-size-16);
+    font-weight: 500;
+    line-height: 24px;
+    color: var(--color-white1)
+}
+
+.wallet-txt-btn {
+    font-family: "Poppins", sans-serif;
+    font-size: var(--font-size-16);
+    font-weight: 600;
+    line-height: 24px;
+    color: var(--color-white1);
+    padding: 14px 32px 14px 32px;
+    background: var(--color-linear);
+    border-radius: 60px;
+    border: 2px solid var(--color-linear);
+}
+.wallet-txt-btn:hover{
+    background:var(--color-white1);
+    border: 2px solid var(--color-linear);
+    color: var(--color-linear);
+}
